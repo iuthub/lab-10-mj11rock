@@ -2,6 +2,6 @@
 
 ## Student Details:
 
-- Student ID: ##*U1610083*
-- Student Name: ##*Islombek*
-- Section Number: ##*Salimov*
+- Student ID: ## *U1610083*
+- Student Name: ## *Islombek*
+- Section Number: ## *Salimov*
